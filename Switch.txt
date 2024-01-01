@@ -1,0 +1,11 @@
+گرفتن اسم برنچ ها :
+git branch
+
+git checkout nameBranch
+یا 
+git switch nameBranch
+
+ معادل این کد :
+git checkout -b nameBranch
+or
+git switch -c nameBranch

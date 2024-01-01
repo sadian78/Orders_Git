@@ -1,0 +1,13 @@
+see the log=>
+Git Log
+
+if you need help to get logs=>
+Git help Log
+
+
+if you want see log for specially user=>
+Git Log --author='sadian'
+
+
+if you want see log for specially time=>
+Git Log --until='2020/05/23'

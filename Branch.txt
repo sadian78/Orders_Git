@@ -1,0 +1,27 @@
+new branch =>
+Git branch NewBranchName
+
+example=>
+Git branch sadian
+
+****
+show list branch=>
+Git Branch
+
+
+*****
+how swich to another branch=>
+Git CheckOut nameBranch
+
+example=>
+Git Chechout Sadian
+
+******
+after create branch swith on the Branch=>
+Git checkout -b nameBranch
+
+example=>
+Git checkout -b secondBranch
+
+******
+

@@ -1,0 +1,11 @@
+نحوه اوردن تغییرات از روی یک برنچ بر روی برنچ دیگه :
+first level : we should undrestand which branch we on it =>
+Git Branch
+
+second level : we should switch on branch which we want move changes on the another branch
+Git Checkout Master
+
+tirth Level : we should Merge
+Git Merge Sadian
+
+******

@@ -1,0 +1,10 @@
+create repository
+
+Git init
+
+example=>
+cd path
+Git Init
+
+
+

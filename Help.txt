@@ -1,0 +1,5 @@
+Git Help
+
+how use know versian? => 
+ 
+Git --version

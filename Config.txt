@@ -1,0 +1,11 @@
+we have threre Config 
+First=> Config System
+how use: 
+Git Config --global => we got every system config
+if we want add user =>
+Git Config --global --add user.name "sara"
+Git Config --global --add user.email "s@gmail.com"
+
+Secoend => User Config 
+
+tirth => Project Config

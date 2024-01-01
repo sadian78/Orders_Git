@@ -1,0 +1,7 @@
+All edit and create=>
+Git add .
+Just specially file / folder /...=>
+Git add fileName
+Git Add Commit
+
+git commit -m "message"
